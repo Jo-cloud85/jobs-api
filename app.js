@@ -5,8 +5,8 @@ import expressAsyncErr from 'express-async-errors'
 // extra security packages
 import helmet from 'helmet'
 import cors from 'cors'
-import { JSDOM } from 'jsdom';
-import DOMPurify from 'dompurify';
+// import { JSDOM } from 'jsdom';
+// import DOMPurify from 'dompurify';
 import rateLimiter from 'express-rate-limit'
 
 // connectDB
