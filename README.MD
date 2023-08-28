@@ -1,3 +1,20 @@
+#### App Info
+
+[./screenshots/Main.png](./screenshots/Main.png)
+
+This is a jobs (RESTful) api project hosted on render.com.
+
+The api UI is simply setup via Swagger UI.
+
+Click here to explore: https://jobs-api-bwjg.onrender.com/api-docs/
+
+This app is built using:
+- Node.js with Express.js
+- MongoDB
+- Swagger UI
+- json Web Token Authentication
+- and many more...
+
 #### Setup
 
 ```bash
@@ -67,3 +84,6 @@ Swagger UI
       required: true
       description: the job id
 ```
+
+#### Acknowledgement
+- Instructor John Smilga - Node.js course (https://johnsmilga.com/)
