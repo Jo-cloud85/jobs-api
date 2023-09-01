@@ -1,6 +1,6 @@
 import express from 'express';
 import dotenv from 'dotenv';
-import expressAsyncErr from 'express-async-errors'
+import 'express-async-errors';
 
 // extra security packages
 import helmet from 'helmet'

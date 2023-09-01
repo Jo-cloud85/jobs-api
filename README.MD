@@ -86,4 +86,5 @@ Swagger UI
 ```
 
 #### Acknowledgement
+- This project is done in conjunction with Instructor John Smilga in the following course
 - Instructor John Smilga - Node.js course (https://johnsmilga.com/)
